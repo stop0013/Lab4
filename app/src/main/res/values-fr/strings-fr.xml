@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lab 4</string>
+    <string name="hello_message">Bonjour le monde</string>
+    <string name="ButtonText">je suis un bouton</string>
+    <string name="TextView">Voici mes widgets :</string>
+    <string name="Botton">Bouton</string>
+    <string name="Switch">Allumer / éteindre</string>
+    <string name="HintText">Tapez votre nom ici</string>
+    <string name="checkBoxText">Regarde ça</string>
+    <string name="emailAddress">Entrez votre adresse email</string>
+    <string name="enterEmailAddress">Tapez l\'e-mail ici</string>
+    <string name="password">Tapez votre mot de passe :</string>
+    <string name="bottonlab3">Connexion</string>
+    <string name="profile">Votre profil</string>
+    <string name="profileName">Votre nom:</string>
+    <string name="enterName">Entrez votre nom</string>
+    <string name="yourEmail">Votre e-mail :</string>
+    <string name="enterEmail">Entrer votre Email</string>
+    <string name="picture">Ta photo:</string>
+    <string name="textBotton">Cliquez sur le bouton ci-dessus pour prendre une photo</string>
+    <string name="sharedEmail"></string>
+    <string name="btnGotoChat">ALLER AU CHAT</string>
+    <string name="btnSend">ENVOYER</string>
+    <string name="btnReceive">RECEVOIR</string>
+    <string name="editText">Écrivez ici</string>
+
+
+
+</resources>
