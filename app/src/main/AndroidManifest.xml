@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name=".ChatRoomActivity" android:parentActivityName=".ProfileActivity"></activity>
         <activity android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
@@ -18,7 +19,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".ProfileActivity"/>
-        <activity android:name=".ChatRoomActivity"/>
     </application>
 
 </manifest>
